@@ -1,4 +1,4 @@
-# Hybrid CNN-XGBoost Framework for Weld Defect Classification
+# Hybrid GAN-CNN-XGBoost Framework for Weld Defect Classification
 
 ## Abstract
 
